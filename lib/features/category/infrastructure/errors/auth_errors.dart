@@ -1,0 +1,3 @@
+class CategoryNotFound implements Exception {
+  
+}
